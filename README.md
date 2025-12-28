@@ -5,7 +5,7 @@ Frontend-only demo (no backend). Perfect for practicing forms, layout, and basic
 
 ## 🔗 Live
 (When deployed with GitHub Pages, link will be:)
-`https://NaveenLikesCoding.github.io/login-ui`
+`https://NaveenLikesCoding.github.io/login
 
 ## 🧩 Features
 - Clean, centered login form
@@ -17,8 +17,9 @@ Frontend-only demo (no backend). Perfect for practicing forms, layout, and basic
 ## 📁 Project structure
 index.html ← Login page 
 style.css ← Styles for the page
-images/ ← Background or assets 
-
+image.jpg ← Background 
+forgot.html ← Reset Password page
+register.html ← Register page 
 
 ## Author
 Naveen — Beginner Web Developer
